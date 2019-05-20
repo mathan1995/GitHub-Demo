@@ -5,18 +5,21 @@ Kitty:
 Thanan:
 	Naan thamilil type panna maaddennn
 	Password set panni kaadda venum.
-<<<<<<< HEAD
 	
 mercy:
 this is final-1
-=======
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Thanoos:
 	Ennaththa solla ?
 =======
 =======
+=======
+jothi:
+	Description 
+>>>>>>> b02450c6ae869f32c3b6980e4cd734c4ddbf2399
 Mathan:
 	Github Welcome's you !!!
 pakeesan:
@@ -35,8 +38,11 @@ Sujeban:
 Keerththanan:
 	This is the final attempt. 
 
->>>>>>> e9d78d9eea4826432d5f2676d1d01d2de7c09e24
 
+<<<<<<< HEAD
+arun
+    my test file
+=======
 <<<<<<< HEAD
 Shawmiya:
     Session on git
@@ -46,9 +52,9 @@ arun
     my test file
 =======
 >>>>>>> 6e43effeceb28c07a7e95481bf5b2c4f45301286
+>>>>>>> d1c1f4919b48e43da5b05c5a590037b17bdd5b46
 Karan:
     Love your Life
->>>>>>> f6b199f4863a7c88b9d916852eb4aa61b7eac66d
 Thuvi:
 	Final Description
 <<<<<<< HEAD
