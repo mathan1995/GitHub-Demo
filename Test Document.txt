@@ -5,53 +5,17 @@ Kitty:
 Thanan:
 	Naan thamilil type panna maaddennn
 	Password set panni kaadda venum.
-<<<<<<< HEAD
-	
-mercy:
-this is final-1
-=======
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Thenujan
 	hi bro...
-=======
-=======
-=======
-Mathan:
-	Github Welcome's you !!!
-pakeesan:
-	never ever giveup
-Hari:
-	dei pavamda naan plzda vidudungada
->>>>>>> 7a09bf7e6f2fa5753492302537090fec45d11ec5
-Thanushan:
-	Last try of mine.
->>>>>>> 3249e134254fde9c006a049469d6b523afe340bd
 Tyron:
 	Time out
 	
 Sujeban:
 	Thiripium oru message
 	
->>>>>>> c86001524bc4e764ceb9b3ef9ab2449bd4e5dc7f
 Keerththanan:
 	This is the final attempt. 
 
->>>>>>> e9d78d9eea4826432d5f2676d1d01d2de7c09e24
 
-<<<<<<< HEAD
-Shawmiya:
-    Session on git
-=======
-<<<<<<< HEAD
-arun
-    my test file
-=======
->>>>>>> 6e43effeceb28c07a7e95481bf5b2c4f45301286
-Karan:
-    Love your Life
->>>>>>> f6b199f4863a7c88b9d916852eb4aa61b7eac66d
-Thuvi:
-	Final Description
