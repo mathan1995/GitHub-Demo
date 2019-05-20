@@ -13,11 +13,9 @@ Thanan:
 Mathan:
 	Hello Machan !!!
 
-<<<<<<< HEAD
 pakeesan
   first task
 	
-=======
 Keerthana:
     No comments
 	
@@ -57,4 +55,3 @@ Karan:
 Hari:
 	this is my turn.
 
->>>>>>> 7b378bcbe3ed6b88d78d4005eaa2c188a9609c67
