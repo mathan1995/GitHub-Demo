@@ -14,6 +14,11 @@ priyan:
 Mathan:
 	Hello Machan !!!
 
+
+Thuvi:
+	complete work
+	
+
 Keerthana:
     No comments
 	
@@ -52,4 +57,7 @@ Karan:
 	
 Hari:
 	this is my turn.
+	
 
+Kishanth:
+	Cleared all Thevayillaatha items
