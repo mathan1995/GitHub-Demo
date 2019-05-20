@@ -7,3 +7,5 @@ Thanan:
 	Password set panni kaadda venum.
 
 
+Shawmiya:
+    Session on git
