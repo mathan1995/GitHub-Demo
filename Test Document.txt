@@ -9,7 +9,7 @@ Thanan:
 	This is a merge demo.
 	
 priyan:
-      i will do
+      i will do this,.....
 
 Mathan:
 	Hello Machan !!!
