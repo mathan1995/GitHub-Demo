@@ -12,5 +12,18 @@ Thanan:
 
 Mathan:
 	Hello Machan !!!
+<<<<<<< HEAD
 	priyanka:
 	 hello!!!!!
+=======
+
+<<<<<<< HEAD
+Karan:
+    hi 
+	
+=======
+Hari:
+	this is my turn.
+>>>>>>> 3673e224f34f7f18aa26d5ce09210643151cf3d4
+	
+>>>>>>> 9bf8f321048a3bcace9679e96b6552d440f15ed3
