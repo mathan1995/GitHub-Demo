@@ -16,6 +16,18 @@ Mathan:
 Keerthana:
     No comments
 
+
+Thuvarakan:
+    Hello
+
+Karan:
+    hi 
+
+Hari:
+	this is my turn.
+
+	
+
 	priyanka:
 	 hello!!!!!
 
@@ -24,7 +36,7 @@ Keerthana:
 Kishanth:
 	Marupadiyum muthal la irunthaa!!
 
->>>>>>> 8e0b7d918d605c6a473e7da25580335c3b6eb217
+
 
 Karan:
     hi 
