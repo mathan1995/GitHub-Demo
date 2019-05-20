@@ -5,14 +5,14 @@ Kitty:
 Thanan:
 	Naan thamilil type panna maaddennn
 	Password set panni kaadda venum.	
+
 mercy:
 this is final-try
-	Password set panni kaadda venum.
-<<<<<<< HEAD
+
 	
 mercy:
 this is final-1
-=======
+
 Sajitha :
 	This is  a Git  Project
 	
@@ -24,7 +24,6 @@ Thanoos:
 
 jothi:
 	Description 
->>>>>>> d178c51779922ac8090713c61f623d5482842daf
 
 Mathu:
 	This is final!
@@ -71,23 +70,17 @@ Keerththanan:
 	This is the final attempt. 
 Sajitha:
 	Irritate
-<<<<<<< HEAD
 
 Shawmiya:
     Session on git
 
-=======
 Shawmiya:
     Session on git
->>>>>>> d178c51779922ac8090713c61f623d5482842daf
 arun
     my test file
 Karan:
     Love your Life
-<<<<<<< HEAD
 
-=======
->>>>>>> d178c51779922ac8090713c61f623d5482842daf
 Thuvi:
 	Final Description
 Dalistaa:
@@ -95,10 +88,7 @@ Dalistaa:
 	It is going bad
 
 	It is going bad
-<<<<<<< HEAD
 
-=======
->>>>>>> d178c51779922ac8090713c61f623d5482842daf
 arun
     my test file
 Shawmiya:
@@ -110,16 +100,18 @@ Karan:
 Thuvi:
 	Final Description
 
-<<<<<<< HEAD
-=======
 Kishanth:
 	VS Code um mannaankaddiyum , enakku accept pannurathu varuthilla
 MathuSharma:
  final test....
+
+
+Thuvi:
+	Final Description
+
 Thuvi:
 	Final Description
 Thuvi:
 	Final Description
 Kishanth:
 	Haiyo Haiyo
->>>>>>> d178c51779922ac8090713c61f623d5482842daf
