@@ -9,8 +9,6 @@ Thanan:
 mercy:
 this is final-1
 
-Mathu:
-	This is final!
 Mathan:
 	Github Welcome's you !!!
 pakeesan:
@@ -19,10 +17,6 @@ Hari:
 	dei pavamda naan plzda vidudungada
 Thanushan:
 	Last try of mine.
-
-
-Thenujan
-	hi bro...
 Tyron:
 	Time out
 	
@@ -32,39 +26,13 @@ Sujeban:
 Keerththanan:
 	This is the final attempt. 
 
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Shawmiya:
     Session on git
-=======
-<<<<<<< HEAD
 arun
     my test file
-=======
->>>>>>> 6e43effeceb28c07a7e95481bf5b2c4f45301286
 Karan:
     Love your Life
->>>>>>> f6b199f4863a7c88b9d916852eb4aa61b7eac66d
 Thuvi:
 	Final Description
 Dalistaa:
 	It is going bad
-=======
->>>>>>> 5a7ceb13f4d3e4859e3f6433587628d23e87bfe0
-=======
-arun
-    my test file
-
-Shawmiya:
-    Session on git
-
-arun
-    my test file
-
-Karan:
-    Love your Life
-Thuvi:
-	Final Description
->>>>>>> c22e7957aa78a26102b1a2d04b1dba0e47d678e3
