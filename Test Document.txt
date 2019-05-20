@@ -81,23 +81,10 @@ Keerththanan:
 Sajitha:
 	Irritate
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 arun
     my test file
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 726e925297f2d8bab3d163dedab2087dcefd38fb
-=======
->>>>>>> b99a3ffbad824613689e5e0f53a35744688a3197
+
 Shawmiya:
     Session on git
 
@@ -105,14 +92,7 @@ Shawmiya:
     Session on git
 arun
     my test file
-<<<<<<< HEAD
-=======
->>>>>>> 6e43effeceb28c07a7e95481bf5b2c4f45301286
-<<<<<<< HEAD
->>>>>>> d1c1f4919b48e43da5b05c5a590037b17bdd5b46
-=======
-=======
->>>>>>> b99a3ffbad824613689e5e0f53a35744688a3197
+
 Karan:
     Love your Life
 
@@ -123,39 +103,19 @@ Dalistaa:
 	It is going bad
 
 	It is going bad
-<<<<<<< HEAD
-=======
->>>>>>> 5a7ceb13f4d3e4859e3f6433587628d23e87bfe0
->>>>>>> 726e925297f2d8bab3d163dedab2087dcefd38fb
-=======
-=======
 
->>>>>>> b99a3ffbad824613689e5e0f53a35744688a3197
 arun
     my test file
 Shawmiya:
     Session on git
 arun
     my test file
-<<<<<<< HEAD
 
->>>>>>> c22e7957aa78a26102b1a2d04b1dba0e47d678e3
-=======
->>>>>>> b99a3ffbad824613689e5e0f53a35744688a3197
 Karan:
     Love your Life
 Thuvi:
 	Final Description
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5a7ceb13f4d3e4859e3f6433587628d23e87bfe0
-=======
-=======
->>>>>>> 726e925297f2d8bab3d163dedab2087dcefd38fb
->>>>>>> c22e7957aa78a26102b1a2d04b1dba0e47d678e3
-=======
+
 
 Kishanth:
 	VS Code um mannaankaddiyum , enakku accept pannurathu varuthilla
@@ -174,4 +134,4 @@ Kishanth:
 	Haiyo Haiyo
 vany:
 	lastone
->>>>>>> b99a3ffbad824613689e5e0f53a35744688a3197
+
