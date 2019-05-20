@@ -5,11 +5,9 @@ Kitty:
 Thanan:
 	Naan thamilil type panna maaddennn
 	Password set panni kaadda venum.
-<<<<<<< HEAD
 	
 mercy:
 this is final-1
-=======
 
 Mathu:
 	This is final!
@@ -30,14 +28,10 @@ Sujeban:
 Keerththanan:
 	This is the final attempt. 
 
->>>>>>> e9d78d9eea4826432d5f2676d1d01d2de7c09e24
 
-<<<<<<< HEAD
 arun
     my test file
-=======
 Karan:
     Love your Life
->>>>>>> f6b199f4863a7c88b9d916852eb4aa61b7eac66d
 Thuvi:
 	Final Description
