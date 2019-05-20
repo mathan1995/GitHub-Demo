@@ -26,12 +26,9 @@ Keerththanan:
 	This is the final attempt. 
 
 
-<<<<<<< HEAD
 arun
     my test file
-=======
 Karan:
     Love your Life
->>>>>>> f6b199f4863a7c88b9d916852eb4aa61b7eac66d
 Thuvi:
 	Final Description
