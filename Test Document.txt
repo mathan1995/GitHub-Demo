@@ -6,5 +6,11 @@ Thanan:
 	Naan thamilil type panna maaddennn
 	Password set panni kaadda venum.
 
+<<<<<<< HEAD
 Mathan:
 	GitHub Welcome's you..!
+=======
+
+Sujeban:
+	Some message
+>>>>>>> bd9ad60d6afb0d4b913c33328f484b332f42324f
