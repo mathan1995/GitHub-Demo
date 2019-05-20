@@ -9,29 +9,22 @@ Thanan:
 mercy:
 this is final-1
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Thanoos:
 	Ennaththa solla ?
-=======
-=======
-=======
+
 jothi:
 	Description 
->>>>>>> b02450c6ae869f32c3b6980e4cd734c4ddbf2399
-=======
+
 Mathu:
 	This is final!
->>>>>>> c22e7957aa78a26102b1a2d04b1dba0e47d678e3
+
 Mathan:
-	Github Welcome's you !!!
+	Github Welcome's you 
 pakeesan:
 	never ever giveup
 Hari:
 	dei pavamda naan plzda vidudungada
->>>>>>> 7a09bf7e6f2fa5753492302537090fec45d11ec5
+
 Thanushan:
 	Last try of mine.
 
@@ -48,6 +41,20 @@ Keerththanan:
 	This is the final attempt. 
 
 
+
+Shawmiya:
+    Session on git
+
+arun
+    my test file
+Karan:
+    Love your Life
+
+Thuvi:
+	Final Description
+Dalistaa:
+	It is going bad
+
 arun
     my test file
 
@@ -61,7 +68,4 @@ Karan:
     Love your Life
 Thuvi:
 	Final Description
-<<<<<<< HEAD
->>>>>>> 3249e134254fde9c006a049469d6b523afe340bd
-=======
->>>>>>> dcbaace8a96fc852a872c42e713e6ee5a2863238
+
