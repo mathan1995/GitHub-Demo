@@ -29,8 +29,20 @@ Keerththanan:
 	This is the final attempt. 
 
 
+<<<<<<< HEAD
 arun
     my test file
+=======
+<<<<<<< HEAD
+Shawmiya:
+    Session on git
+=======
+<<<<<<< HEAD
+arun
+    my test file
+=======
+>>>>>>> 6e43effeceb28c07a7e95481bf5b2c4f45301286
+>>>>>>> d1c1f4919b48e43da5b05c5a590037b17bdd5b46
 Karan:
     Love your Life
 Thuvi:
