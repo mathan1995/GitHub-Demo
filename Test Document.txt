@@ -16,5 +16,10 @@ Keerththanan:
 	This is the final attempt. 
 
 
+<<<<<<< HEAD
 Karan:
     Love your Life
+=======
+Thuvi:
+	Final Description
+>>>>>>> c59eff01fe428e4de4b4e7ad69b89afde70a6ae4
