@@ -13,6 +13,48 @@ Thanan:
 Mathan:
 	Hello Machan !!!
 
+<<<<<<< HEAD
 pakeesan
   first task
 	
+=======
+Keerthana:
+    No comments
+	
+jothi:
+  Hello...,
+Sujeban:
+	Some message!!
+
+
+Thuvarakan:
+    Hello
+
+Karan:
+    hi 
+
+Hari:
+	this is my turn.
+	
+	priyanka:
+	 hello!!!!!
+
+	
+
+	priyanka:
+	 hello!!!!!
+
+
+	
+Kishanth:
+	Marupadiyum muthal la irunthaa!!
+
+
+
+Karan:
+    hi 
+	
+Hari:
+	this is my turn.
+
+>>>>>>> 7b378bcbe3ed6b88d78d4005eaa2c188a9609c67
