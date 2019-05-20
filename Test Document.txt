@@ -13,11 +13,14 @@ Thanan:
 Mathan:
 	Hello Machan !!!
 
-<<<<<<< HEAD
+
 Thuvarakan:
     Hello
-=======
+
+Karan:
+    hi 
+
 Hari:
 	this is my turn.
->>>>>>> 3673e224f34f7f18aa26d5ce09210643151cf3d4
+
 	
