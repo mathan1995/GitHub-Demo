@@ -6,20 +6,4 @@ Thanan:
 	Naan thamilil type panna maaddennn
 	Password set panni kaadda venum.
 
-Paki:
-<<<<<<< HEAD
-	Naanum add pannuvaneeee, Enna pannuvaai, Eeee enna pannuvaai????
-	Kitty ku aluppu kudkum line ithu.
-=======
-	Naanum add pannuvaneeee, Enna pannuvaai, Eeee enna pannuvaai???
->>>>>>> 18a5e1e44beff21ce823dec405a712a4b909f2fc
-
-Sujeban:
-    Enaiya ithu github chat group ah ?
-	
-Mathan:
-    Vaalthukal
-
-jothi:
-	No comments
 
