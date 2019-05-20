@@ -97,12 +97,8 @@ MathuSharma:
  final test....
 
 
-
 Thuvi:
 	Final Description
 
-<<<<<<< HEAD
-=======
 Kishanth:
 	Haiyo Haiyo
->>>>>>> e6127a5b2fd976f97284e4bc8ab13b083a2cf817
