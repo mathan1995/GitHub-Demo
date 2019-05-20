@@ -5,11 +5,6 @@ Kitty:
 Thanan:
 	Naan thamilil type panna maaddennn
 	Password set panni kaadda venum.
-<<<<<<< HEAD
-	
-mercy:
-this is final-1
-=======
 
 Thuvarakan:
    Hellalala0000000.
@@ -21,6 +16,9 @@ Hari:
 	dei pavamda naan plzda vidudungada
 Thanushan:
 	Last try of mine.
+
+Thenujan
+	hi bro...
 Tyron:
 	Time out
 	
@@ -30,8 +28,8 @@ Sujeban:
 Keerththanan:
 	This is the final attempt. 
 
->>>>>>> e9d78d9eea4826432d5f2676d1d01d2de7c09e24
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 arun
     my test file
@@ -50,3 +48,5 @@ Karan:
     Love your Life
 Thuvi:
 	Final Description
+=======
+>>>>>>> 5a7ceb13f4d3e4859e3f6433587628d23e87bfe0
