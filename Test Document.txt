@@ -14,6 +14,19 @@ priyan:
 Mathan:
 	Hello Machan !!!
 
+
+
+Thuvarakan:
+    Hello
+
+Karan:
+    hi 
+
+Hari:
+	this is my turn.
+
+	
+
 	priyanka:
 	 hello!!!!!
 
@@ -22,7 +35,7 @@ Mathan:
 Kishanth:
 	Marupadiyum muthal la irunthaa!!
 
->>>>>>> 8e0b7d918d605c6a473e7da25580335c3b6eb217
+
 
 Karan:
     hi 
