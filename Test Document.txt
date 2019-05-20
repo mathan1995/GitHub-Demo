@@ -17,13 +17,20 @@ Mathan:
 	 hello!!!!!
 =======
 
-<<<<<<< HEAD
+	
+Kishanth:
+	Marupadiyum muthal la irunthaa!!
+
+
 Karan:
     hi 
 	
-=======
 Hari:
 	this is my turn.
+<<<<<<< HEAD
 >>>>>>> 3673e224f34f7f18aa26d5ce09210643151cf3d4
 	
 >>>>>>> 9bf8f321048a3bcace9679e96b6552d440f15ed3
+=======
+	
+>>>>>>> aa452fdef5def02069a8add0b72a79dd15bf043a
