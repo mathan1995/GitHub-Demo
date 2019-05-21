@@ -70,3 +70,7 @@ Mercy:
 
 	sp
 	:naanum sejvan
+	pakees:
+	 nan sejthu paththanan  
+	Mr.X:
+		Hi
