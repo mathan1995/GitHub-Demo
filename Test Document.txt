@@ -69,3 +69,5 @@ Mercy:
 
 	pakees:
 	 nan sejthu paththanan  
+	Mr.X:
+		Hi
