@@ -72,5 +72,4 @@ Mercy:
 	:naanum sejvan
 	pakees:
 	 nan sejthu paththanan  
-	Mr.X:
-		Hi
+	
